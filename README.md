@@ -1,7 +1,7 @@
 COURSERA SPECIALIZATIONS
 ========================
 
-|Specialization Name | Coursewise Duration | Total Udration	|
+|Specialization Name | Coursewise Duration | Total Duration	|
 |-	|-	|-	|
 | Advanced Business analytics | 11H; 11H; 8H; 6H; 19H	| 55H|
 | Deep Learning | 20H; 18H; 5H; 20H; 15H | 78H |

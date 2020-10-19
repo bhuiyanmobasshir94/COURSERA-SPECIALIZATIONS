@@ -1,4 +1,4 @@
-## COURSERA SPECIALIZATIONS
+# COURSERA SPECIALIZATIONS
 
 |Specialization Name | Coursewise Duration | Total Duration	|
 |-	|-	|-	|
@@ -26,7 +26,7 @@
 | Machine Learning with TensorFlow on Google Cloud Platform | | |
 | Generative Adversarial Networks (GANs) Specialization | | |
 
-## COURSERA COURSES
+# COURSERA COURSES
 
 | Course Name 	|  Duration	|
 |-	|-	|
